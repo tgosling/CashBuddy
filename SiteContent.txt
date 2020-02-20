@@ -1,0 +1,49 @@
+Cashier Portal Aquatics VERSION 1.0
+
+Indoor pools(including contact info[PM, APM, SG], Schedules[Rec, Lane, aFit], Google Map, Call Sheet, Facility Facts)
+ - CGAC
+ - CHOCC
+ - SLCP
+
+Outdoor pools(including contact info[PM, APM, SG], Schedules[Rec, Lane, aFit], Google Map, Call Sheet, Facility Facts)
+ - Byron
+ - East Lions 
+ - Gibbons
+ - Glen Cairn
+ - North East 
+ - Northridge
+ - Oakridge
+ - Silverwood
+ - Southcrest
+ - Stronach
+ - Thames
+ - Westminister
+
+EMERGENCY PAGES for each Pool with emergency call procedures
+
+Additional pages:
+
+Act-i-Pass
+Admission Frequently Asked Questions
+AquaFit
+Cash-off Procedure
+Debit/Credit Terminals
+Garbage Tag Sales
+Swim Lessons
+Lane swimming
+Leadership
+Merchandise
+Membership Pass Sales
+Parent & Tot scehdule
+Point of Sale info
+Manual Cash
+Program Registration Info
+Rec Swim Schedule
+Splachback Info
+Spray Pads/Wading pool locations
+Subsidy Info/help
+Summer Camps
+Try-It pass
+Tech Support
+
+

@@ -1,0 +1,35 @@
+Aquatics Cashier Portal
+* = Work in progress
+# = Finished
+
+Conecpts
+May Update*
+- Pools (update information to fit each facility) *
+- Main (update outdoor info)*
+- Garbage Tag Sales (tag picture)*
+- Cash out procedure
+- Swim Lessons *
+- Leadership (link page directly to leadership content)*
+- Manual Cash *
+- tech support *
+- POS troubleshooting *
+- Subsidy *
+- Policy Manual
+- 'Try It' pass
+- Emergency Procedures *
+- how to process camp admissions
+
+
+Aquatics 3.0 
+
+- Staff comments
+- Lost and Found Comments
+- Thefts
+- Ban Notices
+- Order Events
+- Camp bookings
+
+Deck Supervisor portal
+
+- End of shift report commenting
+

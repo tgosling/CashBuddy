@@ -1,0 +1,1 @@
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11671.215529063162!2d-81.301901!3d43.003464!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaa6cd4c8a7daf069!2sCanada+Games+Aquatic+Centre!5e0!3m2!1sen!2sca!4v1491746483024" width="900" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
